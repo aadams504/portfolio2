@@ -1,7 +1,7 @@
-import React from "react";
+import ProjectsMenu from "./ProjectsMenu";
 
 const Projects = () => {
-  return <div>Projects</div>;
+  return <ProjectsMenu />;
 };
 
 export default Projects;
