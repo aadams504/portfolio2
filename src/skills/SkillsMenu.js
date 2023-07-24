@@ -26,16 +26,7 @@ export default class SkillsMenu extends Component {
         className={`skill-sub-container-${this.state.activeMenuItem}`}
       >
         <h3>{skill.title}</h3>
-        <div className="level-container">
-          {[...Array(6)].map((_, i) => (
-            <div
-              key={i}
-              className={`level-point ${
-                i < skill.level ? "filled" : "unfilled"
-              }`}
-            />
-          ))}
-        </div>
+        <div className="level-container"></div>
       </div>
     ));
   };

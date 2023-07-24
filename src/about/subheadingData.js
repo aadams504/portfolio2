@@ -5,8 +5,9 @@ const subheadingData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Passionate software developer and video game enthusiast with a
+            talent for crafting user-friendly applications. I love exploring new
+            technologies and coding solutions that make a positive impact.
           </p>
         </>
       ),
@@ -14,58 +15,36 @@ const subheadingData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2023 Bachelor Degree",
       content: (
         <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2014 Bachelors Degree",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <p>B.S. Computer Science</p>
         </>
       ),
     },
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2022 Full Stack Developer | SEO",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            I create customized digital solutions focused on your needs. From
+            business websites to CRMs and everything in between. I am available
+            to take care ofanything you need to help increase your business's
+            efficiency and attract more users.
           </p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2017 Avionics Systems Specialist",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2017 IT Consultant",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Directed regular maintenance and software updates on complex
+            avionics systems, ensuring optimal performance and compliance with
+            government regulation to maintain mission capability of aircraft.
           </p>
         </>
       ),
