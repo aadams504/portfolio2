@@ -13,7 +13,7 @@ export default function ContactMenu() {
   const [formData, setFormData] = useState(initialState);
   const [errors, setErrors] = useState({});
   const [isLoading, setIsLoading] = useState(false);
-  const [isSent, setIsSent] = useState(false);
+  const [isSent, setIsSent] = useState(true);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -146,8 +146,7 @@ export default function ContactMenu() {
       {isSent && (
         <div className="success-message">
           <p>SUCCESS!</p>
-          <p>Your message has been successfully sent!</p>
-          <p>You can safely leave this page.</p>
+          <p>Your message has been sent successfully!</p>
         </div>
       )}
     </div>
